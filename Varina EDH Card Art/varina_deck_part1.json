@@ -1,0 +1,132 @@
+{
+  "defaults": {
+    "back": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Card%20Sleeve.png"
+  },
+  "cards": [
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Academy%20Ruins.jpg",
+      "name": "Academy Ruins\nLegendary Land\n0CMC",
+      "description": "{T}: Add {C}. {1}{U}, {T}: Put target artifact card from your graveyard on top of your library."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Accursed%20Duneyard.png",
+      "name": "Accursed Duneyard\nLand\n0CMC",
+      "description": "{T}: Add {C}. {2}, {T}: Regenerate target Shade, Skeleton, Specter, Spirit, Vampire, Wraith, or Zombie. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/An%20Offer%20You%20Can%27t%20Refuse.png",
+      "name": "An Offer You Can't Refuse\nInstant\n1CMC",
+      "description": "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Anguished%20Unmaking.jpg",
+      "name": "Anguished Unmaking\nInstant\n3CMC",
+      "description": "Exile target nonland permanent. You lose 3 life."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Arcane%20Sanctum.jpg",
+      "name": "Arcane Sanctum\nLand\n0CMC",
+      "description": "This land enters tapped. {T}: Add {W}, {U}, or {B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Arcane%20Signet.jpg",
+      "name": "Arcane Signet\nArtifact\n2CMC",
+      "description": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Azorius%20Signet.jpg",
+      "name": "Azorius Signet\nArtifact\n2CMC",
+      "description": "{1}, {T}: Add {W}{U}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Bojuka%20Bog.png",
+      "name": "Bojuka Bog\nLand\n0CMC",
+      "description": "This land enters tapped. When this land enters, exile target player's graveyard. {T}: Add {B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Carrion%20Feeder.jpg",
+      "name": "Carrion Feeder\nCreature - Zombie\n1CMC",
+      "description": "This creature can't block. Sacrifice a creature: Put a +1/+1 counter on this creature. [b]1/1[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Caves%20of%20Koilos.png",
+      "name": "Caves of Koilos\nLand\n0CMC",
+      "description": "{T}: Add {C}. {T}: Add {W} or {B}. This land deals 1 damage to you."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/City%20of%20Brass.jpg",
+      "name": "City of Brass\nLand\n0CMC",
+      "description": "Whenever this land becomes tapped, it deals 1 damage to you. {T}: Add one mana of any color."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Command%20Tower.jpg",
+      "name": "Command Tower\nLand\n0CMC",
+      "description": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Concealed%20Courtyard.jpg",
+      "name": "Concealed Courtyard\nLand\n0CMC",
+      "description": "This land enters tapped unless you control two or fewer other lands. {T}: Add {W} or {B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Corpse%20Knight.jpg",
+      "name": "Corpse Knight\nCreature - Zombie Knight\n2CMC",
+      "description": "Whenever another creature you control enters, each opponent loses 1 life. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Cover%20of%20Darkness.png",
+      "name": "Cover of Darkness\nEnchantment\n2CMC",
+      "description": "As this enchantment enters, choose a creature type. Creatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Crypt%20of%20Agadeem.png",
+      "name": "Crypt of Agadeem\nLand\n0CMC",
+      "description": "This land enters tapped. {T}: Add {B}. {2}, {T}: Add {B} for each black creature card in your graveyard."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Cryptbreaker.jpg",
+      "name": "Cryptbreaker\nCreature - Zombie\n1CMC",
+      "description": "{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token. Tap three untapped Zombies you control: You draw a card and you lose 1 life. [b]1/1[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Cyclonic%20Rift.jpg",
+      "name": "Cyclonic Rift\nInstant\n2CMC",
+      "description": "Return target nonland permanent you don't control to its owner's hand. Overload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Damn.png",
+      "name": "Damn\nSorcery\n2CMC",
+      "description": "Destroy target creature. A creature destroyed this way can't be regenerated. Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Darkslick%20Shores.jpg",
+      "name": "Darkslick Shores\nLand\n0CMC",
+      "description": "This land enters tapped unless you control two or fewer other lands. {T}: Add {U} or {B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Death%20Baron.png",
+      "name": "Death Baron\nCreature - Zombie Wizard\n3CMC",
+      "description": "Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.) [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Dimir%20Signet.jpg",
+      "name": "Dimir Signet\nArtifact\n2CMC",
+      "description": "{1}, {T}: Add {U}{B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Diregraf%20Captain.jpg",
+      "name": "Diregraf Captain\nCreature - Zombie Soldier\n3CMC",
+      "description": "Deathtouch Other Zombie creatures you control get +1/+1. Whenever another Zombie you control dies, target opponent loses 1 life. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Diregraf%20Colossus.jpg",
+      "name": "Diregraf Colossus\nCreature - Zombie Giant\n3CMC",
+      "description": "This creature enters with a +1/+1 counter on it for each Zombie card in your graveyard. Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature token. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Fabled%20Passage.jpg",
+      "name": "Fabled Passage\nLand\n0CMC",
+      "description": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+    }
+  ]
+}

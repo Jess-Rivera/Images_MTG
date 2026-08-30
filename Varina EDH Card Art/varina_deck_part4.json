@@ -1,0 +1,122 @@
+{
+  "defaults": {
+    "back": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Card%20Sleeve.png"
+  },
+  "cards": [
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Swan%20Song.jpg",
+      "name": "Swan Song\nInstant\n1CMC",
+      "description": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Swords%20to%20Plowshares.jpg",
+      "name": "Swords to Plowshares\nInstant\n1CMC",
+      "description": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Talisman%20of%20Dominance.jpg",
+      "name": "Talisman of Dominance\nArtifact\n2CMC",
+      "description": "{T}: Add {C}. {T}: Add {U} or {B}. This artifact deals 1 damage to you."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Talisman%20of%20Hierarchy.jpg",
+      "name": "Talisman of Hierarchy\nArtifact\n2CMC",
+      "description": "{T}: Add {C}. {T}: Add {W} or {B}. This artifact deals 1 damage to you."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Talisman%20of%20Progress.jpg",
+      "name": "Talisman of Progress\nArtifact\n2CMC",
+      "description": "{T}: Add {C}. {T}: Add {W} or {U}. This artifact deals 1 damage to you."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Temmet%2C%20Naktamun%27s%20Will.png",
+      "name": "Temmet, Naktamun's Will\nLegendary Creature - Zombie Wizard\n5CMC",
+      "description": "Vigilance, menace Whenever you attack, draw a card, then discard a card. Whenever you draw a card, Zombies you control get +1/+1 until end of turn. [b]4/4[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Toxic%20Deluge.jpg",
+      "name": "Toxic Deluge\nSorcery\n3CMC",
+      "description": "As an additional cost to cast this spell, pay X life. All creatures get -X/-X until end of turn."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Twilight%27s%20Call.jpg",
+      "name": "Twilight's Call\nSorcery\n6CMC",
+      "description": "You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.) Each player returns all creature cards from their graveyard to the battlefield."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Undead%20Augur.jpg",
+      "name": "Undead Augur\nCreature - Zombie Wizard\n2CMC",
+      "description": "Whenever this creature or another Zombie you control dies, you draw a card and you lose 1 life. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Undead%20Warchief.png",
+      "name": "Undead Warchief\nCreature - Zombie\n4CMC",
+      "description": "Zombie spells you cast cost {1} less to cast. Zombie creatures you control get +2/+1. [b]1/1[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Unholy%20Grotto.png",
+      "name": "Unholy Grotto\nLand\n0CMC",
+      "description": "{T}: Add {C}. {B}, {T}: Put target Zombie card from your graveyard on top of your library."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Urborg%2C%20Tomb%20of%20Yawgmoth.png",
+      "name": "Urborg, Tomb of Yawgmoth\nLegendary Land\n0CMC",
+      "description": "Each land is a Swamp in addition to its other land types."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Vault%20of%20Champions.jpg",
+      "name": "Vault of Champions\nLand\n0CMC",
+      "description": "This land enters tapped unless you have two or more opponents. {T}: Add {W} or {B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Vault%20of%20the%20Archangel.png",
+      "name": "Vault of the Archangel\nLand\n0CMC",
+      "description": "{T}: Add {C}. {2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Warren%20Soultrader.png",
+      "name": "Warren Soultrader\nCreature - Zombie Goblin Wizard\n3CMC",
+      "description": "Pay 1 life, Sacrifice another creature: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\") [b]3/3[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Watery%20Grave.png",
+      "name": "Watery Grave\nLand - Island Swamp\n0CMC",
+      "description": "({T}: Add {U} or {B}.) As this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Wayward%20Servant.jpg",
+      "name": "Wayward Servant\nCreature - Zombie\n2CMC",
+      "description": "Whenever another Zombie you control enters, each opponent loses 1 life and you gain 1 life. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Wilhelt%2C%20the%20Rotcleaver.jpg",
+      "name": "Wilhelt, the Rotcleaver\nLegendary Creature - Zombie Warrior\n4CMC",
+      "description": "Whenever another Zombie you control dies, if it didn't have decayed, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.) At the beginning of your end step, you may sacrifice a Zombie. If you do, draw a card. [b]3/3[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Withered%20Wretch.png",
+      "name": "Withered Wretch\nCreature - Zombie Cleric\n2CMC",
+      "description": "{1}: Exile target card from a graveyard. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Zombie%20Apocalypse.jpg",
+      "name": "Zombie Apocalypse\nSorcery\n6CMC",
+      "description": "Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Zombie%20Master.jpg",
+      "name": "Zombie Master\nCreature - Zombie\n3CMC",
+      "description": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.) Other Zombies have \"{B}: Regenerate this permanent.\" [b]2/3[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Zul%20Ashur%2C%20Lich%20Lord.jpg",
+      "name": "Zul Ashur, Lich Lord\nLegendary Creature - Zombie Warlock\n2CMC",
+      "description": "Ward-Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.) {T}: You may cast target Zombie creature card from your graveyard this turn. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Varina%2C%20Lich%20Queen.png",
+      "name": "Varina, Lich Queen\nLegendary Creature - Zombie Wizard\n4CMC",
+      "description": "Whenever you attack with one or more Zombies, draw that many cards, then discard that many cards. You gain that much life. {2}, Exile two cards from your graveyard: Create a tapped 2/2 black Zombie creature token. [b]4/4[/b]"
+    }
+  ]
+}
