@@ -4,6 +4,26 @@
   },
   "cards": [
     {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Snow-Covered%20Plains.png",
+      "name": "Snow-Covered Plains\nBasic Snow Land - Plains\n0CMC",
+      "description": "({T}: Add {W}.)"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Snow-Covered%20Swamp.png",
+      "name": "Snow-Covered Swamp\nBasic Snow Land - Swamp\n0CMC",
+      "description": "({T}: Add {B}.)"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Stroke%20of%20Midnight.png",
+      "name": "Stroke of Midnight\nInstant\n3CMC",
+      "description": "Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Swamp.png",
+      "name": "Swamp\nBasic Land - Swamp\n0CMC",
+      "description": "({T}: Add {B}.)"
+    },
+    {
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Swan%20Song.jpg",
       "name": "Swan Song\nInstant\n1CMC",
       "description": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
@@ -107,16 +127,6 @@
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Zombie%20Master.jpg",
       "name": "Zombie Master\nCreature - Zombie\n3CMC",
       "description": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.) Other Zombies have \"{B}: Regenerate this permanent.\" [b]2/3[/b]"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Zul%20Ashur%2C%20Lich%20Lord.jpg",
-      "name": "Zul Ashur, Lich Lord\nLegendary Creature - Zombie Warlock\n2CMC",
-      "description": "Ward-Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.) {T}: You may cast target Zombie creature card from your graveyard this turn. [b]2/2[/b]"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Varina%2C%20Lich%20Queen.png",
-      "name": "Varina, Lich Queen\nLegendary Creature - Zombie Wizard\n4CMC",
-      "description": "Whenever you attack with one or more Zombies, draw that many cards, then discard that many cards. You gain that much life. {2}, Exile two cards from your graveyard: Create a tapped 2/2 black Zombie creature token. [b]4/4[/b]"
     }
   ]
 }

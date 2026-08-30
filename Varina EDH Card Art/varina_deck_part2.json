@@ -4,6 +4,16 @@
   },
   "cards": [
     {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Diregraf%20Colossus.jpg",
+      "name": "Diregraf Colossus\nCreature - Zombie Giant\n3CMC",
+      "description": "This creature enters with a +1/+1 counter on it for each Zombie card in your graveyard. Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature token. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Fabled%20Passage.jpg",
+      "name": "Fabled Passage\nLand\n0CMC",
+      "description": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+    },
+    {
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Fetid%20Heath.png",
       "name": "Fetid Heath\nLand\n0CMC",
       "description": "{T}: Add {C}. {W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}."
@@ -42,6 +52,11 @@
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Grim%20Servant.jpg",
       "name": "Grim Servant\nCreature - Zombie Warlock\n4CMC",
       "description": "Menace When this creature enters, search your library for a card with mana value less than or equal to your devotion to black, reveal it, put it into your hand, then shuffle. You lose 3 life. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.) [b]3/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Grimclimb%20Pathway.png",
+      "name": "Grimclimb Pathway\nLand\n0CMC",
+      "description": "{T}: Add {B}."
     },
     {
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Hall%20of%20Heliod%E2%80%99s%20Generosity.jpeg",
@@ -112,21 +127,6 @@
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Lord%20of%20the%20Undead.jpg",
       "name": "Lord of the Undead\nCreature - Zombie\n3CMC",
       "description": "Other Zombie creatures get +1/+1. {1}{B}, {T}: Return target Zombie card from your graveyard to your hand. [b]2/2[/b]"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Mana%20Confluence.png",
-      "name": "Mana Confluence\nLand\n0CMC",
-      "description": "{T}, Pay 1 life: Add one mana of any color."
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Midnight%20Reaper.png",
-      "name": "Midnight Reaper\nCreature - Zombie Knight\n3CMC",
-      "description": "Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card. [b]3/2[/b]"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Morphic%20Pool.png",
-      "name": "Morphic Pool\nLand\n0CMC",
-      "description": "This land enters tapped unless you have two or more opponents. {T}: Add {U} or {B}."
     }
   ]
 }

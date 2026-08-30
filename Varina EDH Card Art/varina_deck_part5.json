@@ -1,0 +1,17 @@
+{
+  "defaults": {
+    "back": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Card%20Sleeve.png"
+  },
+  "cards": [
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Zul%20Ashur%2C%20Lich%20Lord.jpg",
+      "name": "Zul Ashur, Lich Lord\nLegendary Creature - Zombie Warlock\n2CMC",
+      "description": "Ward-Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.) {T}: You may cast target Zombie creature card from your graveyard this turn. [b]2/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Varina%2C%20Lich%20Queen.png",
+      "name": "Varina, Lich Queen\nLegendary Creature - Zombie Wizard\n4CMC",
+      "description": "Whenever you attack with one or more Zombies, draw that many cards, then discard that many cards. You gain that much life. {2}, Exile two cards from your graveyard: Create a tapped 2/2 black Zombie creature token. [b]4/4[/b]"
+    }
+  ]
+}

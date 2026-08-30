@@ -44,6 +44,11 @@
       "description": "This land enters tapped. When this land enters, exile target player's graveyard. {T}: Add {B}."
     },
     {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Brightclimb%20Pathway.jpg",
+      "name": "Brightclimb Pathway\nLand\n0CMC",
+      "description": "{T}: Add {W}."
+    },
+    {
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Carrion%20Feeder.jpg",
       "name": "Carrion Feeder\nCreature - Zombie\n1CMC",
       "description": "This creature can't block. Sacrifice a creature: Put a +1/+1 counter on this creature. [b]1/1[/b]"
@@ -57,6 +62,11 @@
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/City%20of%20Brass.jpg",
       "name": "City of Brass\nLand\n0CMC",
       "description": "Whenever this land becomes tapped, it deals 1 damage to you. {T}: Add one mana of any color."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Clearwater%20Pathway.png",
+      "name": "Clearwater Pathway\nLand\n0CMC",
+      "description": "{T}: Add {U}."
     },
     {
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Command%20Tower.jpg",
@@ -117,16 +127,6 @@
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Diregraf%20Captain.jpg",
       "name": "Diregraf Captain\nCreature - Zombie Soldier\n3CMC",
       "description": "Deathtouch Other Zombie creatures you control get +1/+1. Whenever another Zombie you control dies, target opponent loses 1 life. [b]2/2[/b]"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Diregraf%20Colossus.jpg",
-      "name": "Diregraf Colossus\nCreature - Zombie Giant\n3CMC",
-      "description": "This creature enters with a +1/+1 counter on it for each Zombie card in your graveyard. Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature token. [b]2/2[/b]"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Fabled%20Passage.jpg",
-      "name": "Fabled Passage\nLand\n0CMC",
-      "description": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
     }
   ]
 }

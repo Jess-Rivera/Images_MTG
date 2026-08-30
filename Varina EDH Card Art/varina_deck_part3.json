@@ -4,6 +4,26 @@
   },
   "cards": [
     {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Mana%20Confluence.png",
+      "name": "Mana Confluence\nLand\n0CMC",
+      "description": "{T}, Pay 1 life: Add one mana of any color."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Midnight%20Reaper.png",
+      "name": "Midnight Reaper\nCreature - Zombie Knight\n3CMC",
+      "description": "Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card. [b]3/2[/b]"
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Morphic%20Pool.png",
+      "name": "Morphic Pool\nLand\n0CMC",
+      "description": "This land enters tapped unless you have two or more opponents. {T}: Add {U} or {B}."
+    },
+    {
+      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Murkwater%20Pathway.png",
+      "name": "Murkwater Pathway\nLand\n0CMC",
+      "description": "{T}: Add {B}."
+    },
+    {
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Necroduality.png",
       "name": "Necroduality\nEnchantment\n4CMC",
       "description": "Whenever a nontoken Zombie you control enters, create a token that's a copy of that creature."
@@ -107,26 +127,6 @@
       "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Snow-Covered%20Island.png",
       "name": "Snow-Covered Island\nBasic Snow Land - Island\n0CMC",
       "description": "({T}: Add {U}.)"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Snow-Covered%20Plains.png",
-      "name": "Snow-Covered Plains\nBasic Snow Land - Plains\n0CMC",
-      "description": "({T}: Add {W}.)"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Snow-Covered%20Swamp.png",
-      "name": "Snow-Covered Swamp\nBasic Snow Land - Swamp\n0CMC",
-      "description": "({T}: Add {B}.)"
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Stroke%20of%20Midnight.png",
-      "name": "Stroke of Midnight\nInstant\n3CMC",
-      "description": "Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token."
-    },
-    {
-      "front": "https://raw.githubusercontent.com/Jess-Rivera/Images_MTG/main/Varina%20EDH%20Card%20Art/cropped/Swamp.png",
-      "name": "Swamp\nBasic Land - Swamp\n0CMC",
-      "description": "({T}: Add {B}.)"
     }
   ]
 }
