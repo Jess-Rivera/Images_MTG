@@ -33,6 +33,7 @@
 1 Gravecrawler
 1 Gray Merchant of Asphodel
 1 Grim Servant
+1 Grimclimb Pathway
 1 Hall of Heliod's Generosity
 1 Hashaton, Scarab's Fist
 1 Headless Rider
@@ -50,6 +51,7 @@
 1 Mana Confluence
 1 Midnight Reaper
 1 Morphic Pool
+1 Murkwater Pathway
 1 Necroduality
 1 Noxious Ghoul
 1 On Wings of Gold
@@ -97,5 +99,4 @@
 1 Zombie Apocalypse
 1 Zombie Master
 1 Zul Ashur, Lich Lord
-
 1 Varina, Lich Queen
